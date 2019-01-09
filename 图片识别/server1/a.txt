@@ -1,0 +1,84 @@
+Array
+(
+    [file] => Array
+        (
+            [name] => u=169725531,3494195910&fm=200&gp=0.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\xmapp\tmp\php347B.tmp
+            [error] => 0
+            [size] => 32266
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => u=517748425,2883022337&fm=11&gp=0.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\xmapp\tmp\php349C.tmp
+            [error] => 0
+            [size] => 46433
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => u=1230357351,92223899&fm=11&gp=0.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\xmapp\tmp\php34BC.tmp
+            [error] => 0
+            [size] => 41513
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => u=3441536470,2328864305&fm=200&gp=0.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\xmapp\tmp\php34CC.tmp
+            [error] => 0
+            [size] => 21410
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => 2_2.png
+            [type] => image/png
+            [tmp_name] => E:\wamp\tmp\phpE301.tmp
+            [error] => 0
+            [size] => 151929
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => 1_1.png
+            [type] => image/png
+            [tmp_name] => E:\wamp\tmp\php8FB5.tmp
+            [error] => 0
+            [size] => 152332
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => 1_2.png
+            [type] => image/png
+            [tmp_name] => E:\wamp\tmp\php8FB6.tmp
+            [error] => 0
+            [size] => 104677
+        )
+
+)
